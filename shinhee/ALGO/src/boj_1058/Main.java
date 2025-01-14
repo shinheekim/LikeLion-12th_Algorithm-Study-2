@@ -1,4 +1,4 @@
-package ALGO.src.boj_1916;
+package ALGO.src.boj_1058;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
